@@ -1,0 +1,6 @@
+telebot
+python-dotenv
+google-generativeai
+langchain-google-genai
+langchain
+apscheduler

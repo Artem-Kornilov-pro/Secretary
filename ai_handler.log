@@ -1,0 +1,2 @@
+2025-03-23 20:22:18,497 - ERROR - Ошибка при парсинге запроса пользователя: Your location is not supported by google-generativeai at the moment. Try to use ChatVertexAI LLM from langchain_google_vertexai.
+2025-03-23 20:22:18,672 - ERROR - Ошибка при генерации ответа ИИ: Your location is not supported by google-generativeai at the moment. Try to use ChatVertexAI LLM from langchain_google_vertexai.
